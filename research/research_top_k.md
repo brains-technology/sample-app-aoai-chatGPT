@@ -43,4 +43,4 @@ Top-k=15は「AIが自動整理」してくれる設定で、多すぎる情報�
 
 ---
 
-[mainに戻る](https://github.com/brains-technology/sample-app-aoai-chatGPT/blob/branch-1/research/research_main.md)
+[mainに戻る](https://github.com/brains-technology/sample-app-aoai-chatGPT/blob/branch-1/research/research_main.md#パラメーターの設定変更による回答内容の変化の実験)

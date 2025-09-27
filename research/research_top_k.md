@@ -42,3 +42,5 @@ Top-k=15は「AIが自動整理」してくれる設定で、多すぎる情報�
 | **要約・まとめ作成** | Top-k=15 | システムが自動で整理 |
 
 ---
+
+[mainに戻る](https://github.com/brains-technology/sample-app-aoai-chatGPT/blob/branch-1/research/research_main.md)

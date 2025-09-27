@@ -60,4 +60,4 @@
       - どのパラメータ設定でも回答内容・referencesの再現性は確認できなかった。
 </br>
 
-[mainに戻る](https://github.com/brains-technology/sample-app-aoai-chatGPT/blob/branch-1/researc/research_main.md)
+[mainに戻る](research/research_main.md)

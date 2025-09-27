@@ -78,4 +78,4 @@ Azure Blob Storageの使用合計: 26 アイテム、27.95 MiB
 - **リソース効率**：ストレージコストが懸念される場合は、Small モデルが若干有利
 
 
-[mainに戻る](https://github.com/brains-technology/sample-app-aoai-chatGPT/blob/branch-1/research/research_main.md)
+[mainに戻る](https://github.com/brains-technology/sample-app-aoai-chatGPT/blob/branch-1/research/research_main.md#パラメーターの設定変更による回答内容の変化の実験)

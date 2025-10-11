@@ -12,7 +12,8 @@ NeuronESの事例について回答してくれるAIアシスタントを`sample
 - Box AIやDropbox Dashの利用を検討している方
 - Microsoft 365 Copilotを評価している方
  -->
-
+<img src="./image/AzureAIArchitecture.svg" alt="Example SVG" width="800">
+<br>
 ## 構築したチャットボットの動作確認
 構築したチャットボットに質問した時の回答結果とNeuronESで検索した結果の比較を示します。<br>
 （NeuronESの場合は、プロンプトの中のキーワードで検索した場合を想定します）
@@ -37,8 +38,7 @@ NeuronESの事例について回答してくれるAIアシスタントを`sample
 ## 構築したチャットボットのパラメーター設定
 構築したチャットボットの構成は下記になっています。<br>
 事例の26ファイル（pdfとpptx）をAzure Blob storageにアップロードしています。<br>
-<img src="./image/AzureAIArchitecture.svg" alt="Example SVG" width="800">
-<br>
+
 構築したチャットボットの主なパラメーターは以下です。<br>
 ### Search Serviceのスキルセット
 #### 前処理(チャンク設定)

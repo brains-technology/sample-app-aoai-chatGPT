@@ -14,6 +14,7 @@ NeuronESの事例について回答してくれるAIアシスタントを`sample
  -->
 <img src="./image/AzureAIArchitecture.svg" alt="Example SVG" width="800">
 <br>
+
 ## 構築したチャットボットの動作確認
 構築したチャットボットに質問した時の回答結果とNeuronESで検索した結果の比較を示します。<br>
 （NeuronESの場合は、プロンプトの中のキーワードで検索した場合を想定します）

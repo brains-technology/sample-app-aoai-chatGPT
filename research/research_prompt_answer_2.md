@@ -194,3 +194,4 @@ Neuronを導入する顧客に共通する課題は以下の通りです：<br>
 </table>
 
 [No.1〜No.5](https://github.com/brains-technology/sample-app-aoai-chatGPT/blob/branch-1/research/research_prompt_answer_1.md)
+[main](https://github.com/brains-technology/sample-app-aoai-chatGPT/blob/branch-1/research/research_main.md#%E6%A7%8B%E7%AF%89%E3%81%97%E3%81%9F%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E5%8B%95%E4%BD%9C%E7%A2%BA%E8%AA%8D)

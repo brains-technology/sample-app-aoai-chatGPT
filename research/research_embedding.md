@@ -1,5 +1,5 @@
 
-# Azure テキストEmbedding Model比較調査：Small vs Large
+# Embedding Model比較調査：Small vs Large
 
 ## 背景
 

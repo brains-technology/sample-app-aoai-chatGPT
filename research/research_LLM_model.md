@@ -55,6 +55,7 @@ https://github.com/user-attachments/assets/2a60af8b-4480-4971-b37e-439c8d58a5c5
 [価格の参照先](https://azure.microsoft.com/ja-jp/pricing/details/cognitive-services/openai-service/):3月末現在
 |モデル|モデルバージョン|Input|Output|
 |----|----------|-------|-----|
+|GPT-5-mini Global|2025-08-07|¥37.99|¥303.85|
 |gpt-4o|2024-05-13|¥747.5|¥2,242.5|
 |gpt-4o-mini|2024-07-18|¥22.4|¥89.7|
 |gpt-4|Turbo 128K|¥1,495|¥4,485|
